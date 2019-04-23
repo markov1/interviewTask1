@@ -1,0 +1,10 @@
+G:\C#\Basics\ProgressTask\ProgressTask\bin\Debug\ProgressTask.exe.config
+G:\C#\Basics\ProgressTask\ProgressTask\bin\Debug\ProgressTask.exe
+G:\C#\Basics\ProgressTask\ProgressTask\bin\Debug\ProgressTask.pdb
+G:\C#\Basics\ProgressTask\ProgressTask\obj\Debug\ProgressTask.csprojAssemblyReference.cache
+G:\C#\Basics\ProgressTask\ProgressTask\obj\Debug\ProgressTask.Properties.Resources.resources
+G:\C#\Basics\ProgressTask\ProgressTask\obj\Debug\ProgressTask.csproj.GenerateResource.cache
+G:\C#\Basics\ProgressTask\ProgressTask\obj\Debug\ProgressTask.csproj.CoreCompileInputs.cache
+G:\C#\Basics\ProgressTask\ProgressTask\obj\Debug\ProgressTask.exe
+G:\C#\Basics\ProgressTask\ProgressTask\obj\Debug\ProgressTask.pdb
+G:\C#\Basics\ProgressTask\ProgressTask\obj\Debug\ProgressTask.Form1.resources
